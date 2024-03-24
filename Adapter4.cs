@@ -53,6 +53,5 @@ class Program
     {
         float area = shape.getArea();
         Console.WriteLine("Obszar: " + area);
-        // Do something with area
     }
 }
